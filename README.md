@@ -6,7 +6,7 @@ On the picture / poster, if clicked, there will be a popup in the form of the im
 Click details to see the details of the film.
 
 ### Installation
-- clone : `git clone https://github.com/rkml94/movie-list-by-omdbapi.git`
+- clone : `git clone https://github.com/rkml94/Movie-List-by-OMDBAPI.git`
 - install depandencies npm : `npm install`
 
 ### Run App Web
